@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nattapon Howong
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C,C++,Pythom & Dart
+- 🌱 I’m currently learning C,C++,Python,Dart,HTML&CSS,JavaScript
 - 📫 How to reach me email:nattapon.how@gmail.com
 
 <!---
